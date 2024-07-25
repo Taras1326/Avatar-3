@@ -1,0 +1,10 @@
+.root {
+ --accent-color: #94CFFF
+ 
+}
+
+
+
+.container {
+    outline: 1px solid red;
+}
